@@ -1,3 +1,4 @@
+Sample spring boot application, output jar
 
 Sample rest endpoint
 http://localhost:8080/v1/hello 
